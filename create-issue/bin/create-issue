@@ -1,2 +1,4 @@
-import create-issue
-create_issue()
+#!/usr/bin/python
+
+import createissue
+createissue.create_issue()
