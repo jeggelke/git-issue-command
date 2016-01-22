@@ -53,6 +53,6 @@ So to put this all together:
 This would create an issue to this repository.
 
 ## Other things to note
-This script currently only works for GitHub and BitBucket. This can be easily exanded by editing the `websites` list in `__init__.py`
+This script currently only works for GitHub and BitBucket. This can be easily expanded by editing the `websites` list in `__init__.py`
 
 Please report any issues [here](https://github.com/jeggelke/python-assessment/issues).
